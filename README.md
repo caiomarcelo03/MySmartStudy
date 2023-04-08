@@ -35,16 +35,16 @@ MySmartStudy é um software de gamificação na educação, ele pode ser utiliza
 a estudarem mais e a se esforçarem para alcançar melhores resultados, a ideia principal é trazar um app com este software para melhorar a experiência do usuario.
 
 ## Funcionalidades ⚙️
-🔹 Funcionalidade 1
+🔹 Funcionalidade 1:
 Jogos e atividades interativas para treinamento de habilidades sociais e emocionais.
 
-🔹 Funcionalidade 2
+🔹 Funcionalidade 2:
 Feedback personalizado para ajudar os usuários a melhorar.
 
-🔹 Funcionalidade 3
+🔹 Funcionalidade 3:
 Recursos para pais e professores acompanharem o progresso dos alunos e fornecerem suporte adicional, se necessário.
 
-🔹 Funcionalidade 4
+🔹 Funcionalidade 4:
 Interface amigável e intuitiva para facilitar a navegação e uso do aplicativo.
 
 ## Distribuição
