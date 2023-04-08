@@ -37,18 +37,21 @@ a estudarem mais e a se esforçarem para alcançar melhores resultados, a ideia 
 ## Funcionalidades ⚙️
 🔹 Funcionalidade 1
 Jogos e atividades interativas para treinamento de habilidades sociais e emocionais.
+
 🔹 Funcionalidade 2
 Feedback personalizado para ajudar os usuários a melhorar.
+
 🔹 Funcionalidade 3
 Recursos para pais e professores acompanharem o progresso dos alunos e fornecerem suporte adicional, se necessário.
+
 🔹 Funcionalidade 4
 Interface amigável e intuitiva para facilitar a navegação e uso do aplicativo.
 
 ## Distribuição
 O aplicativo poderá ser distribuído por meio de lojas de aplicativos, como a App Store e o Google Play.
-(inda na fazes de produção, logo será disponibilidado para testes.)⚠️
+(inda na fazes de produção, logo será disponibilidado para testes.)⚠
 
-## Pré-requisitos ⚠️    
+## Pré-requisitos
 Os usuários devem ter dispositivos móveis compatíveis com o aplicativo.
 a partir das versôs, Android 4.2 ou iOS 12.1 para conseguir utilizar o app.)
 
