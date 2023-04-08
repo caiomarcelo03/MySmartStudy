@@ -61,7 +61,7 @@ Os usuários podem baixar e instalar o aplicativo por meio da loja de aplicativo
 ## Testes realizados
 Iremos realizar testes de usabilidade, desempenho e funcionalidade do aplicativo em diferentes dispositivos móveis e sistemas operacionais.
 
-## Banco de Dados 🗂️
+## Banco de Dados
 Planejamos utilizar 
 Java para Android | Swift e Objective-C para iOS.
 
@@ -76,9 +76,13 @@ Para resolver problemas que possam surgir durante o desenvolvimento do aplicativ
 
 ## Desenvolvedores/Contribuintes:
 Caio Marcelo Souza.
+
 Lucas Henrique Rocha.
+
 Fabiano Dias Fernandes.
+
 Samuel de Souza Santos.
+
 Vinicius de Mouraes Leite.
 
 ## Licença
