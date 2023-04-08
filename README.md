@@ -34,7 +34,7 @@
 MySmartStudy é um software de gamificação na educação, ele pode ser utilizado para tornar o aprendizado mais divertido e envolvente, incentivando os alunos
 a estudarem mais e a se esforçarem para alcançar melhores resultados, a ideia principal é trazar um app com este software para melhorar a experiência do usuario.
 
-## Funcionalidades ⚙️
+## Funcionalidades
 🔹 Funcionalidade 1:
 Jogos e atividades interativas para treinamento de habilidades sociais e emocionais.
 
@@ -49,7 +49,7 @@ Interface amigável e intuitiva para facilitar a navegação e uso do aplicativo
 
 ## Distribuição
 O aplicativo poderá ser distribuído por meio de lojas de aplicativos, como a App Store e o Google Play.
-(inda na fazes de produção, logo será disponibilidado para testes.)⚠
+(inda na fazes de produção, logo será disponibilidado para testes.)
 
 ## Pré-requisitos
 Os usuários devem ter dispositivos móveis compatíveis com o aplicativo.
@@ -68,10 +68,10 @@ Java para Android | Swift e Objective-C para iOS.
 ## Resolvendo Problemas 
 Para resolver problemas que possam surgir durante o desenvolvimento do aplicativo, serão utilizados processos de desenvolvimento ágil e metodologias de resolução de problemas como o Design Thinking.
 
-## Recursos de inseridos 🧰
+## Recursos de inseridos
+[Figma.pdf](https://github.com/OsCodificadores2023/MySmartStudy/files/11182218/Figma.pdf)
 
-
-## Linguagens, dependencias e libs utilizadas 📚
+## Linguagens, dependencias e libs utilizadas
 ⚠️ 
 
 ## Desenvolvedores/Contribuintes:
